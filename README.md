@@ -108,6 +108,4 @@ Special thanks to ICFOSS for providing this internship opportunity and the resou
 
 ---
 
-### Contact
-For any questions or collaborations, feel free to reach out via GitHub Issues or email at [your-email@example.com].
 
